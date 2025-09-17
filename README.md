@@ -73,3 +73,15 @@ This page offers granular, actionable insights for strategic decision-making.
 - **Time-Based Analysis**: Bar charts of Sales by Weekday and Sales by Hour pinpoint peak sales times, revealing that Thursdays and 12 PM are the busiest periods, which is invaluable for optimizing staffing and marketing schedules.
 - **Product Performance Matrix**: A scatter plot of Quantity Sold vs. Unit Price reveals which products are high-volume, low-margin versus low-volume, high-margin, guiding inventory and pricing strategies.
 - **Top Customer Analysis**: A bar chart lists the Top 10 Customers by Revenue, allowing for the identification of high-value clients.
+
+----------------------
+## Thank You! 💙
+
+Thanks for checking out my project! If you found it useful, please consider:  
+[![GitHub stars](https://github.com/Siteshgupta123)] 
+⭐ **Starring** the repo  
+🐛 **Reporting** issues  
+🛠 **Contributing** improvements  
+
+Coded with ❤️ by **Sitesh Gupta**  
+🔗 www.linkedin.com/in/guptasitesh | 💌 Email-guptasitesh05@email.com
